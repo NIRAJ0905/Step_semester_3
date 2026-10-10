@@ -1,12 +1,13 @@
-## Date: 26-08-2026
-**Today's Work:**
-Completed Session 1 Class and Assignment problems under Category C.
+## Date: 10-10-2026
 
+**Today's Work:** 
+- Completed Session 10 Class and Assignment problems (Linked list) under `feature/10-linked-list-problems`.
+  
 **Next Session Plan:**
-Move on to Session 2 topics and practice sets.
+Next Session Plan: Merge feature branches into `develop` and start Session 11 topics.
 
 **Issues Faced:**
-- None
+None
 
 ## Date: 04-09-2026
 
@@ -19,3 +20,13 @@ Next Session Plan: Merge feature branches into `develop` and start Session 4 top
 
 **Issues Faced:**
 None
+
+## Date: 26-08-2026
+**Today's Work:**
+Completed Session 1 Class and Assignment problems.
+
+**Next Session Plan:**
+Move on to Session 2 topics and practice sets.
+
+**Issues Faced:**
+- None
